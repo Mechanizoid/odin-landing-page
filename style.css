@@ -3,6 +3,7 @@
 body {
     /* needed because many browsers apply an automatic 8px margin */
     margin: 0;
+    font: Roboto
 }
 
 /* remove default styling from unordered lists */
@@ -25,6 +26,11 @@ a {
 
 .header {
 
+}
+
+#header-logo {
+    text-size: 24px;
+    color: #F9FAF8;
 }
 
 .header-links {
