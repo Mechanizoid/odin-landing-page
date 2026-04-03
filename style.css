@@ -1,5 +1,59 @@
 /* style.css */
 
-* {
-    background-color: lightblue;
+body {
+    /* needed because many browsers apply an automatic 8px margin */
+    margin: 0;
+}
+
+/* header and hero */
+.header,
+.hero {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.header {
+
+}
+
+.header-links {
+    display: flex;
+}
+
+
+/* information section */
+.information-section {
+    display: flex;
+}
+
+.card-container {
+
+}
+
+/* testimonial section */
+.testimonial-container {
+    display: flex;
+    background-color: #E5E7EB;
+}
+
+/* call to action section */
+
+.call-to-action {
+    display: flex;
+    background-color: #3882F6;
+}
+
+.left-side-cta {
+
+}
+
+.call-to-action-button {
+
+}
+
+/* footer */
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
 }
