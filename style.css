@@ -1,9 +1,12 @@
 /* style.css */
 
+/*import Roboto font */
+@import url('https://googleapis.com');
+
 body {
     /* needed because many browsers apply an automatic 8px margin */
     margin: 0;
-    font: Roboto
+    font-family: 'Roboto', sans-serif;
 }
 
 /* remove default styling from unordered lists */
