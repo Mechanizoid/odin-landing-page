@@ -5,6 +5,17 @@ body {
     margin: 0;
 }
 
+/* remove default styling from unordered lists */
+ul {
+    list-style-type: none;
+    margins: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
 /* header and hero */
 .header,
 .hero {
