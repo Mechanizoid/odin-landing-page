@@ -53,6 +53,13 @@ a {
     align-items: baseline;
 }
 
+.hero-img {
+    display: flex;
+    background-color: rgb(120,120,135);
+    justify-content: center;
+    align-items: center;
+}
+
 /* information section */
 .information-section {
     display: flex;
