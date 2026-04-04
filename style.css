@@ -25,6 +25,9 @@ a {
 .hero {
     background-color: #1F2937;
     display: flex;
+    flex-basis: 80%;
+    padding: 0 clamp(1rem, 10vw, 25%);
+    justify-content: space-between;
 }
 
 .header {
