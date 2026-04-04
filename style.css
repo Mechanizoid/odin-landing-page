@@ -43,6 +43,15 @@ a {
     display: flex;
 }
 
+.hero {
+
+}
+
+.hero-cta {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
 
 /* information section */
 .information-section {
