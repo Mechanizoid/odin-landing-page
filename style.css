@@ -55,7 +55,7 @@ a {
 
 .hero-img {
     display: flex;
-    background-color: rgb(120,120,135);
+    background-color: #6d747d;
     justify-content: center;
     align-items: center;
 }
