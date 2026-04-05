@@ -73,9 +73,9 @@ a {
 .hero-cta button {
     color: #F9FAF8;
     background-color: #3882F6;
-    font-size: 18px;
-    font-weight: 700;
-    padding: 0.25rem 2rem;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 0.5rem 2rem;
     border-radius: 8px;
 }
 
