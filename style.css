@@ -35,7 +35,7 @@ a {
 }
 
 #header-logo {
-    text-size: 24px;
+    font-size: 24px;
     color: #F9FAF8;
 }
 
@@ -47,6 +47,7 @@ a {
     justify-content: space-between;
     gap: 2rem;
     padding-bottom: 5rem;
+    align-items: stretch;
 }
 
 .hero-cta,
@@ -61,12 +62,11 @@ a {
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-between;
-    flex-wrap: wrap;
 }
 
 #hero-main {
-    display: flex;
-    text-size: 48px;
+    margin: 0;
+    font-size: 48px;
     color: #F9FAF8;
 }
 
