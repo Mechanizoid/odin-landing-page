@@ -54,15 +54,15 @@ a {
 .hero-cta,
 .hero-img {
     display: flex;
-    height: 11rem;
     flex-basis: 50%;
     /* border: 1px solid red; */
 }
 
 .hero-cta {
     flex-direction: column;
+    min-height: 100%;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: stretch;
 }
 
 .hero-cta p {
