@@ -41,6 +41,12 @@ a {
 
 .header-links {
     display: flex;
+    gap: 2rem;
+}
+
+.header-links a {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .hero {
